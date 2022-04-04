@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Allas Assis 👋
 
-- 🌱 Estou atualmente aprendendo Java, Javascript e Python
+- 🌱 Estou atualmente me aprofundando em Java e Springboot.
 - 📫 Contate-me em: allasassis10@gmail.com
 - 😄 Local: São Paulo/SP
 
