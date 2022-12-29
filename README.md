@@ -6,7 +6,11 @@
 - 📫 Contate-me em: allasassis10@gmail.com
 - 😄 Local: São Paulo/SP
 
-
+<div>
+  <a href="https://github.com/allasassis">
+  <img height="158em" src="https://github-readme-stats.vercel.app/api?username=allasassis&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="158em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allasassis&layout=compact&langs_count=7&theme=radical"/>
+</div>
  
  <div> 
   <a href="https://www.youtube.com/channel/UCC85o1ZX_9384iNPjPm7Mvg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
