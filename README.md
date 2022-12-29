@@ -1,13 +1,15 @@
+
+
 ### Olá! Eu sou o Allas Assis 👋
 
 - 🌱 Estou atualmente me aprofundando em Java e Springboot.
 - 📫 Contate-me em: allasassis10@gmail.com
 - 😄 Local: São Paulo/SP
 
-<div align="center">
+<div>
   <a href="https://github.com/allasassis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allasassis&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allasassis&layout=compact&langs_count=7&theme=radical"/>
+  <img height="158em" src="https://github-readme-stats.vercel.app/api?username=allasassis&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="158em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allasassis&layout=compact&langs_count=7&theme=radical"/>
 </div>
  
  <div> 
