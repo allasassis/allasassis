@@ -2,8 +2,8 @@
 
 ### Olá! Eu sou o Allas Assis 👋
 
-- 🌱 Estou atualmente me aprofundando em Java e Springboot.
-- 📫 Contate-me em: allasassis10@gmail.com
+- 🌱 Estou atualmente me aprofundando em Java e Spring.
+- 📫 Me contate em: allasassis10@gmail.com
 - 😄 Local: São Paulo/SP
 
 <div>
