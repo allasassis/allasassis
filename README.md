@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 
-- 🌱 I’m currently learning **Cloud and Angular**.
+- 🌱 I’m currently learning **Spring and Java**.
 
 - 📫 How to reach me: **allasassis10@gmail.com**
 
