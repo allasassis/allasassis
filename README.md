@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Allas Assis</h1>
-<h3 align="center">A passionate Java developer from Brazil</h3>
+<h1 align="center">Hi, I'm Allas Assis</h1>
+<h3 align="center">A Java developer from Brazil</h3>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
