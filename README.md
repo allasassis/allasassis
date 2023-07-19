@@ -3,7 +3,7 @@
 
 ## 👨‍💻 About Me:
 
-- I’m currently learning **Spring and Java**.
+- I’m currently working with **Spring, Java and Javascript**.
 
 - How to reach me: **allasassis10@gmail.com**
 
