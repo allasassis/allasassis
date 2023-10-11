@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Allas Assis</h1>
-<h3 align="center">A back-end developer from Brazil</h3>
+<h3 align="center">A back-end developer</h3>
 
 ## 👨‍💻 About Me:
 
