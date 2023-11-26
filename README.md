@@ -3,7 +3,7 @@
 
 ## 👨‍💻 About Me:
 
-- I’m currently working with **Java, Spring** and learning **Golang**.
+- I’m currently working with **Java, Spring** and learning **Kotlin**.
 - How to reach me: **allasassis10@gmail.com**
 
 ## 🌐 Socials:
